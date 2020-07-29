@@ -1,0 +1,12 @@
+.itemsCont {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.cartItem {
+  width: 100%;
+}
+
+.cartItem img {
+  width: 30px;
+}

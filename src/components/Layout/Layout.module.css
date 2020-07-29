@@ -1,0 +1,108 @@
+.head {
+  width: 100%;
+  display: flex;
+  background-color: rgb(223, 193, 22);
+}
+
+.title {
+  margin-left: 20px;
+}
+
+.searchbar {
+  margin-top: 30px;
+  margin-left: 150px;
+  margin-bottom: 10px;
+  width: 800px;
+}
+.searchbar input {
+  width: 90%;
+  height: 40px;
+}
+
+.btns {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.btns button {
+  flex: 1;
+  background-color: rgb(223, 193, 22); /* Green */
+  border: 2px solid black;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  box-shadow: 5px 5px 5px rgb(126, 125, 125);
+}
+
+.shoppCart {
+  margin-left: 300px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: white;
+  position: relative;
+  display: inline-block;
+  padding: 0px;
+}
+.shoppCart h2,
+.shoppCart h4 {
+  margin: 0px;
+}
+.checkoutbtn:hover {
+  cursor: pointer;
+  background-color: rgb(235, 213, 93);
+}
+
+.checkout {
+  display: block;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  overflow: auto;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 5;
+  min-height: 100px;
+  max-height: 700px;
+  width: 350px;
+  border-radius: 10px;
+}
+
+.checkout h1 {
+  text-align: center;
+}
+.checkoutbtn {
+  height: 100%;
+  background-color: rgb(223, 193, 22); /* Green */
+  border: 2px solid black;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 5px 5px 5px rgb(0, 0, 0);
+}
+.checkout img {
+  margin-top: 10px;
+  width: 100px;
+  margin-left: 100px;
+}
+.checkout h3,
+.checkout h5 {
+  text-align: center;
+  margin: 3px;
+}
+.checkout button {
+  margin-left: 30px;
+
+  width: 40px;
+}
+.checkout p {
+  margin-left: 140px;
+}
