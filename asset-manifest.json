@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Shopping-Cart/static/css/main.d8bf3c71.chunk.css",
+    "main.js": "/Shopping-Cart/static/js/main.cc3e556f.chunk.js",
+    "main.js.map": "/Shopping-Cart/static/js/main.cc3e556f.chunk.js.map",
+    "runtime-main.js": "/Shopping-Cart/static/js/runtime-main.ed685d3e.js",
+    "runtime-main.js.map": "/Shopping-Cart/static/js/runtime-main.ed685d3e.js.map",
+    "static/js/2.9e618f8b.chunk.js": "/Shopping-Cart/static/js/2.9e618f8b.chunk.js",
+    "static/js/2.9e618f8b.chunk.js.map": "/Shopping-Cart/static/js/2.9e618f8b.chunk.js.map",
+    "index.html": "/Shopping-Cart/index.html",
+    "precache-manifest.25eab3a915fa111e9f98a900661c565a.js": "/Shopping-Cart/precache-manifest.25eab3a915fa111e9f98a900661c565a.js",
+    "service-worker.js": "/Shopping-Cart/service-worker.js",
+    "static/css/main.d8bf3c71.chunk.css.map": "/Shopping-Cart/static/css/main.d8bf3c71.chunk.css.map",
+    "static/js/2.9e618f8b.chunk.js.LICENSE.txt": "/Shopping-Cart/static/js/2.9e618f8b.chunk.js.LICENSE.txt",
+    "static/media/Google.png": "/Shopping-Cart/static/media/Google.ef46fe4d.png",
+    "static/media/HP.png": "/Shopping-Cart/static/media/HP.0584c3d2.png",
+    "static/media/acer.png": "/Shopping-Cart/static/media/acer.423cb432.png",
+    "static/media/asus.png": "/Shopping-Cart/static/media/asus.7a62c180.png",
+    "static/media/iphone-8.png": "/Shopping-Cart/static/media/iphone-8.cfcad939.png",
+    "static/media/iphone-se.png": "/Shopping-Cart/static/media/iphone-se.331f4d5d.png",
+    "static/media/lg.png": "/Shopping-Cart/static/media/lg.e3c812e1.png",
+    "static/media/one-plus.png": "/Shopping-Cart/static/media/one-plus.21e2b7e9.png",
+    "static/media/samsung.png": "/Shopping-Cart/static/media/samsung.003af1a9.png",
+    "static/media/samsungtv.png": "/Shopping-Cart/static/media/samsungtv.b5eca284.png",
+    "static/media/sonytv.png": "/Shopping-Cart/static/media/sonytv.3fa2ec32.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed685d3e.js",
+    "static/js/2.9e618f8b.chunk.js",
+    "static/css/main.d8bf3c71.chunk.css",
+    "static/js/main.cc3e556f.chunk.js"
+  ]
+}
